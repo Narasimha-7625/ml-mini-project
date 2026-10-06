@@ -1,0 +1,7 @@
+{
+  "name": "Customer Segmentation Using K-Means Clustering",
+  "description": "Full-stack academic machine learning web application demonstrating K-Means Clustering, StandardScaler, Elbow Method analysis, interactive 2D visualization, segment profiling, and new customer prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
